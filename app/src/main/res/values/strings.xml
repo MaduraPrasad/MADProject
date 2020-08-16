@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">WelcomeUI</string>
+    <string name="log_in0">LOG IN</string>
+    <string name="register">REGISTER</string>
+
+    <string name="log_in">LOG IN</string>
+    <string name="e_mail">E-mail</string>
+    <string name="In_e_mail">E mail</string>
+    <string name="In_pwd">Password</string>
+    <string name="In_pwd1">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="log_in_btn1">LOG IN</string>
+
+    <string name="register_txt">Register</string>
+    <string name="fname">First Name</string>
+    <string name="In_fname">First Name</string>
+    <string name="In_Lname">Last Name</string>
+    <string name="In_lname">Last Name</string>
+    <string name="e_mail2">E-mail</string>
+    <string name="e_mail1">E-mail</string>
+    <string name="phone">Phone</string>
+    <string name="phone1">Phone</string>
+    <string name="address">Address</string>
+    <string name="In_address">Address</string>
+    <string name="password1">Password</string>
+    <string name="Inpwd1">Password</string>
+    <string name="confirm_password">Confirm Password*</string>
+    <string name="re_type_password">Re-Type Password</string>
+    <string name="register1">REGISTER</string>
+    <string name="edit_profile">EDIT PROFILE</string>
+    <string name="password3">Password</string>
+
+    <string name="edit">Edit Profile</string>
+    <string name="Up_fname">First Name</string>
+    <string name="Up_In_fname">First Name</string>
+    <string name="Up_In_Lname">Last Name</string>
+    <string name="Up_In_lname">Last Name</string>
+    <string name="Up_e_mail2">E-mail</string>
+    <string name="Up_e_mail1">E-mail</string>
+    <string name="Up_phone">Phone</string>
+    <string name="Up_phone1">Phone</string>
+    <string name="Up_address">Address</string>
+    <string name="Up_In_address">Address</string>
+    <string name="Up_password1">Password</string>
+    <string name="Up_Inpwd1">Password</string>
+    <string name="Up_confirm_password">Confirm Password*</string>
+    <string name="Up_re_type_password">Re-Type Password</string>
+    <string name="Up_register1">REGISTER</string>
+    <string name="Up_edit_profile">EDIT PROFILE</string>
+    <string name="Up_password3">Password</string>
+    <string name="update">UPDATE</string>
+    <string name="order_history_title">ORDER HISTORY</string>
+    <string name="img1">TODO</string>
+    <string name="desc1">ITEM: Milk Shake DATE:2020/2/16 Amount: Rs550.00</string>
+    <string name="desc2">ITEM: Burger DATE:2020/3/07 Amount: Rs750.00</string>
+    <string name="desc3">ITEM: Fried Rice DATE:2020/5/13 Amount: Rs350.00</string>
+    <string name="clear_hstry">CLEAR</string>
+    <string name="todo_1">TODO</string>
+    <string name="edit_profile_txt_on_mainProfile">Edit Profile</string>
+    <string name="Order_History_txt_on_mainProfile">Order History</string>
+    <string name="My_cart_txt_on_mainProfile">My Cart</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="myCartTitle">TextView</string>
+    <string name="mycart">MyCart</string>
+    <string name="item_1">ITEM</string>
+    <string name="clear_my_cart">CLEAR MY CART</string>
+
+
+</resources>
